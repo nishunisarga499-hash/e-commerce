@@ -1,0 +1,14 @@
+[
+  { "id": 1, "title": "Galaxy Phone X", "description": "A 6.5-inch AMOLED smartphone with a 120Hz display, a triple-lens camera system and an all-day battery.", "category": "smartphones", "price": 699, "rating": 4.6, "stock": 25, "brand": "Nova" },
+  { "id": 2, "title": "Pixel Lite 5G", "description": "Compact 5G phone with a clean interface, a fast processor and a camera that shines in low light.", "category": "smartphones", "price": 449, "rating": 4.3, "stock": 40, "brand": "Orbit" },
+  { "id": 3, "title": "UltraBook Pro 14", "description": "A thin 14-inch laptop with a 16GB memory, fast SSD storage and a bright high-resolution display.", "category": "laptops", "price": 1299, "rating": 4.8, "stock": 12, "brand": "Nova" },
+  { "id": 4, "title": "Student Notebook 15", "description": "A dependable 15-inch laptop for assignments, browsing and streaming, with a long-lasting battery.", "category": "laptops", "price": 549, "rating": 4.1, "stock": 30, "brand": "Orbit" },
+  { "id": 5, "title": "Ocean Breeze Perfume", "description": "A fresh aquatic fragrance with notes of sea salt, citrus and cedarwood. Long lasting.", "category": "fragrances", "price": 59, "rating": 4.4, "stock": 80, "brand": "Aqua" },
+  { "id": 6, "title": "Midnight Oud Eau de Parfum", "description": "A warm, rich evening scent with oud, amber and vanilla undertones.", "category": "fragrances", "price": 89, "rating": 4.7, "stock": 35, "brand": "Aqua" },
+  { "id": 7, "title": "Organic Honey 500g", "description": "Raw, unfiltered organic honey sourced from wildflower meadows.", "category": "groceries", "price": 12, "rating": 4.5, "stock": 200, "brand": "Farmly" },
+  { "id": 8, "title": "Premium Basmati Rice 5kg", "description": "Aged long-grain basmati rice that cooks up fluffy and fragrant.", "category": "groceries", "price": 18, "rating": 4.2, "stock": 150, "brand": "Farmly" },
+  { "id": 9, "title": "Oak Study Desk", "description": "A sturdy solid oak desk with a cable-management slot and a spacious work surface.", "category": "furniture", "price": 320, "rating": 4.6, "stock": 15, "brand": "Hearth" },
+  { "id": 10, "title": "Ergonomic Office Chair", "description": "Breathable mesh back, adjustable lumbar support and smooth-rolling casters for long work days.", "category": "furniture", "price": 189, "rating": 4.4, "stock": 22, "brand": "Hearth" },
+  { "id": 11, "title": "Hydrating Face Serum", "description": "A lightweight serum with hyaluronic acid and vitamin C for glowing, hydrated skin.", "category": "beauty", "price": 29, "rating": 4.5, "stock": 90, "brand": "Glow" },
+  { "id": 12, "title": "Matte Lipstick Set", "description": "A set of five long-wear matte shades that are comfortable and smudge-resistant.", "category": "beauty", "price": 24, "rating": 4.0, "stock": 120, "brand": "Glow" }
+]
