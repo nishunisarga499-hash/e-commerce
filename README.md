@@ -117,6 +117,4 @@ npm run preview
 - Login/Register are UI-only: any valid email and a password of 6+ characters will "log in".
 - Checkout is a demo – it clears the cart and shows a confirmation; no payment is processed.
 
-## Screenshots
 
-_Add screenshots of the Home, Products, Product Details, Cart and dark mode views here._
